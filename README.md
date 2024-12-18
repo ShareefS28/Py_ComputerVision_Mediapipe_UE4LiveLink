@@ -1,5 +1,5 @@
 ## ComputerVision UE4 LiveLink
-not fully working. It's just on my co-operative education.
+not fully working. It's just some part on my co-operative education.
 
 ### Requirements
 ###### Conda or Else
